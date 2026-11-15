@@ -1,10 +1,10 @@
-[general]
+﻿[general]
 name=Satellite Compare
 qgisMinimumVersion=3.22
 description=Map and compare NDVI and Land Surface Temperature from Landsat 8/9 Collection 2 Level-2 imagery.
 version=1.0.0
 author=Lena Alzahrani
-email=Lenzhr2@gmail.com
+email=340993150+LenaAlzahrani-Gis@users.noreply.github.com
 
 about=Single-date maps and two-year change for NDVI (vegetation) and LST (land surface temperature) from Landsat 8/9 Collection 2 Level-2 bands. Masks clouds, shadows, snow and optionally water with QA_PIXEL (with a cloud buffer), removes uncertain LST pixels with ST_QA, can clip to the map view or a polygon layer, and reports class shares, areas and how much of the area was masked. Uses only NumPy and GDAL, which ship with QGIS.
 
