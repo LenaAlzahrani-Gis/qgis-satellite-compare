@@ -25,11 +25,17 @@ For every run the plugin:
 - shows a results window: scene details, statistics, and a colour table with the share and area of each class
 - saves GeoTIFFs, a text summary and a CSV of the class table
 
-## Screenshots
+## Examples
 
-| Results window | NDVI change |
-|---|---|
-| ![Results window](docs/images/results_window.png) | ![NDVI change](docs/images/ndvi_change.png) |
+### Land Surface Temperature – single date
+
+The map above, and the results window from the same run:
+
+![Results window for the LST run](docs/images/results_window.png)
+
+### Vegetation change (NDVI) – two years
+
+![NDVI change 2015–2025](docs/images/ndvi_change.png)
 
 ## Installation
 
